@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-360fy",
+  "version": "1.0.0",
+  "description": "Eslint configuration for 360fy",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Shailendra Sharma",
+  "license": "MIT",
+  "repository": "https://github.com/snow01/eslint-config-360fy.git",
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^4.0.0"
+  }
+}
