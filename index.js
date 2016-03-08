@@ -73,10 +73,12 @@ module.exports = {
         ],
         'react/jsx-indent-props': 0,
         'react/jsx-closing-bracket-location': 0,
+        'react/jsx-space-before-closing': 0,
         'react/prefer-es6-class': 0,
         'react/jsx-no-bind': 0,
         'react/no-script-url': 0,
-        'no-script-url': 0
+        'no-script-url': 0,
+        'no-labels': 0
     }
 };
 
