@@ -46,6 +46,8 @@ module.exports = {
                 varsIgnorePattern: '^_$|React'
             }
         ],
+        'no-underscore-dangle': 0,
+        'global-require': 0,
         'react/no-multi-comp': 0,
         'no-trailing-spaces': 0,
         'id-length': [
@@ -59,7 +61,8 @@ module.exports = {
                     'i',
                     'j',
                     'k',
-                    'l'
+                    'l',
+                    'n'
                 ]
             }
         ],
