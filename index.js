@@ -8,7 +8,7 @@ module.exports = {
     rules: {
         'eol-last': 0,
         'max-len': [1, 200, 4],
-        'no-param-reassign': [1, {props: false}],
+        'no-param-reassign': 0, // [1, {props: false}],
         'space-before-function-paren': [
             2,
             {
