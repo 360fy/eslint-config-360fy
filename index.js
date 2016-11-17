@@ -82,7 +82,8 @@ module.exports = {
         'react/jsx-no-bind': 0,
         'react/no-script-url': 0,
         'no-script-url': 0,
-        'no-labels': 0
+        'no-labels': 0,
+        'import/prefer-default-export': 1
     }
 };
 
